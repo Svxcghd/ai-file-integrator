@@ -1,6 +1,6 @@
 # AI File Integrator v1
 
-Drag files downloaded from AI → the app analyzes their content with Gemini → decides where they go in your project → you confirm.
+this tool optimize workflows with files generates from AI like Chatgpt from the web and put it where belongs in your local proyect ---> Drag files downloaded from AI → the app analyzes their content with Gemini → decides where they go in your project → you configurate and approve the copy of the files
 
 ## Install (Fedora)
 
