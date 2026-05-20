@@ -1,4 +1,4 @@
-# AI File Integrator v2
+# AI File Integrator v1
 
 Drag files downloaded from AI → the app analyzes their content with Gemini → decides where they go in your project → you confirm.
 
